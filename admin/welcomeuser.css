@@ -1,0 +1,11 @@
+.menubar
+{
+	width: 200px;
+	height: 250px;
+	background-color: green;
+	display: block;
+	margin-bottom: 50px;
+	margin-left: 0px;
+	font-size: 20px;
+	padding-left: 30px;
+}
